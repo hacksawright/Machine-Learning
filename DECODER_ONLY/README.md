@@ -1,4 +1,3 @@
-# Untitled
 
 # 📘 Dự án: Mô hình Transformer huấn luyện trên tập Tiny Shakespeare
 
