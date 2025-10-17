@@ -63,7 +63,7 @@ y_vals = -(w[-1][1]/w[-1][2])*x_vals - (w[-1][0]/w[-1][2])
 plt.plot(x_vals, y_vals, 'k--')
 plt.show()
 
-N_test = 5
+N_test = 30
 
 X0_test = np.random.multivariate_normal(means[0], cov, N_test).T
 X1_test = np.random.multivariate_normal(means[1], cov, N_test).T
