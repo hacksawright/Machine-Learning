@@ -1,0 +1,19 @@
+{
+  "model_max_length": 512,
+  "unk_token": "<unk>",
+  "pad_token": "<pad>",
+  "eos_token": "</s>",
+  "bos_token": "<s>",
+  "special_tokens_map": {
+    "unk_token": "<unk>",
+    "pad_token": "<pad>",
+    "eos_token": "</s>",
+    "bos_token": "<s>"
+  },
+  "token_ids": {
+    "<unk>": 0,
+    "<s>": 1,
+    "</s>": 2,
+    "<pad>": 3
+  }
+}
